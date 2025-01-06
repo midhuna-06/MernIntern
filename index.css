@@ -1,0 +1,66 @@
+/*body{
+    background-image:url('PIKACHU.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/
+body{
+    text-align: center;
+}
+
+header{
+    background-color: rgb(14, 12, 12);
+    text-align: center;
+
+}
+header h1{
+    color:white;
+    padding: 40px;
+}
+
+header nav ul{
+    padding: 10px;
+}
+header nav ul li{
+    color: crimson;
+    display: inline;
+    padding: 40px;
+}
+
+header nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+#Home h2{
+    text-align: center;
+}
+
+#Home img{
+    text-align: center;
+    margin-left: 620px;
+    margin-right: 620px;
+    border-radius: 50%;
+}
+#Bio p{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 3%;
+}
+#Bio h2{
+    text-align: center;
+   
+    
+}
+#Skills ul li{
+    display: inline;
+    padding:10px;
+}
+#Portfolio{
+    background-color:rgb(193, 151, 170);
+    
+}
+#Portfolio pre{
+    color: rgb(5, 45, 101);
+    text-align: center;
+}
